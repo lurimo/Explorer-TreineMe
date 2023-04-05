@@ -33,7 +33,7 @@
 ## Sobre o Projeto
 
 <div align="center">
-<img src="https://i.imgur.com/NrA53DG.png" alt="Imagem do projeto aberto em um navegador.">
+<img src="https://i.imgur.com/6x0eGtB.png" alt="Imagem do projeto aberto em um navegador.">
 </div>
 
 <br>
