@@ -56,6 +56,7 @@
 
 ### O que foi utilizado
 
+* [Figma](https://www.figma.com/)
 * [HTML5](https://en.wikipedia.org/wiki/HTML)
 * [CSS](https://en.wikipedia.org/wiki/CSS)
 
